@@ -12,10 +12,10 @@ const ProductsSection = () => {
             <div className="card bg-body-tertiary px-3 border-0 py-4">
               <img src={oppoImage} className="card-img-top" alt="..." />
               <div className="card-body p-0 mt-3 d-flex flex-column gap-3">
-                <h5 className="card-title">
+                <h5 className="card-title fs-6">
                   Apple iPhone 14 Pro 512GB Gold (MQ233)
                 </h5>
-                <p className="card-text fs-5 fw-medium">$1437</p>
+                <p className="card-text fs-6 fw-medium">$1437</p>
                 <a href="#" className="btn bg-black text-white col-12 ">
                   Add To Cart
                 </a>
@@ -26,10 +26,10 @@ const ProductsSection = () => {
             <div className="card bg-body-tertiary px-3 border-0 py-4">
               <img src={iphoneImage} className="card-img-top" alt="..." />
               <div className="card-body p-0 mt-3 d-flex flex-column gap-3">
-                <h5 className="card-title">
+                <h5 className="card-title fs-6">
                   Apple iPhone 14 Pro 512GB Gold (MQ233)
                 </h5>
-                <p className="card-text fs-5 fw-medium">$510</p>
+                <p className="card-text fs-6 fw-medium">$510</p>
                 <a href="#" className="btn bg-black text-white col-12 ">
                   Add To Cart
                 </a>
@@ -40,10 +40,10 @@ const ProductsSection = () => {
             <div className="card bg-body-tertiary px-3 border-0 py-4">
               <img src={androidImage} className="card-img-top" alt="..." />
               <div className="card-body p-0 mt-3 d-flex flex-column gap-3">
-                <h5 className="card-title">
+                <h5 className="card-title fs-6">
                   Apple iPhone 14 Pro 512GB Gold (MQ233)
                 </h5>
-                <p className="card-text fs-5 fw-medium">$550</p>
+                <p className="card-text fs-6 fw-medium">$550</p>
                 <a href="#" className="btn bg-black text-white col-12 ">
                   Add To Cart
                 </a>
@@ -54,10 +54,10 @@ const ProductsSection = () => {
             <div className="card bg-body-tertiary px-3 border-0 py-4">
               <img src={androidImage} className="card-img-top" alt="..." />
               <div className="card-body p-0 mt-3 d-flex flex-column gap-3">
-                <h5 className="card-title">
+                <h5 className="card-title fs-6">
                   Apple iPhone 14 Pro 512GB Gold (MQ233)
                 </h5>
-                <p className="card-text fs-5 fw-medium">$550</p>
+                <p className="card-text fs-6 fw-medium">$550</p>
                 <a href="#" className="btn bg-black text-white col-12 ">
                   Add To Cart
                 </a>
