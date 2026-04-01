@@ -61,13 +61,19 @@ export default function MainHeader() {
 
         <ul className="actions d-flex gap-5 list-unstyled m-0 ">
           <li>
-            <img src={favoriteIcon} alt="" />
+            <a href="#">
+              <img src={favoriteIcon} alt="favoriteIcon" />
+            </a>
           </li>
           <li>
-            <img src={cartIcon} alt="" />
+            <a href="#">
+              <img src={cartIcon} alt="cartIcon" />
+            </a>
           </li>
           <li>
-            <img src={userIcon} alt="" />
+            <a href="#">
+              <img src={userIcon} alt="userIcon" />
+            </a>
           </li>
         </ul>
       </div>
